@@ -1,6 +1,11 @@
 Project Title
 Hospital Mortality Rate Analysis
 
+Tools Used:
+MS Excel
+SQL
+Tableau
+
 Project Description
 This project involves analyzing hospital mortality rates using SQL for data extraction and preparation, and Tableau for data visualization. The primary objective is to gain insights into the factors affecting mortality rates in hospitals, including ethnicity, BMI category, ICU type, and patient age group.
 
