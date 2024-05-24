@@ -5,11 +5,11 @@ Project Description
 This project involves analyzing hospital mortality rates using SQL for data extraction and preparation, and Tableau for data visualization. The primary objective is to gain insights into the factors affecting mortality rates in hospitals, including ethnicity, BMI category, ICU type, and patient age group.
 
 Introduction
-[Dataset Used](ttps://www.kaggle.com/datasets/mitishaagarwal/patient)
+[Dataset Used](https://www.kaggle.com/datasets/mitishaagarwal/patient)
 This project aims to analyze hospital mortality rates using a dataset containing various patient details. The analysis focuses on understanding how different factors like ethnicity, BMI, ICU type, and age group impact hospital mortality rates.
 
 Data Source
-[SQL Code]()
+[SQL Code](https://github.com/Shrishtisinghh2000/Hospital-Mortality-Rate/blob/main/Hospital_Mortality_Rate.sql)
 The dataset used in this project is sourced from the HospitalMortalityRateD table. This table contains patient information, including ethnicity, BMI, ICU type, length of stay, and mortality outcomes.
 
 
