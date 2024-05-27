@@ -1,6 +1,8 @@
 Project Title
 Hospital Mortality Rate Analysis
 
+![image](https://github.com/Shrishtisinghh2000/Hospital-Mortality-Rate/assets/119104668/2345241a-5d5f-454b-8d42-11ecf1f8304b)
+
 Tools Used:
 MS Excel
 SQL
